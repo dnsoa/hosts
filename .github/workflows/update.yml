@@ -1,0 +1,34 @@
+name: UpdateHosts
+
+on:
+  push:
+  schedule:
+    - cron: '0 */2 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Update hosts
+        run: bash build.sh
+
+      - name: Commit
+        id: commit
+        run: |
+          git config --global user.email hostsBot@fake.com
+          git config --global user.name hostsBot
+          git add .
+          git commit -m "Update hosts"
+        continue-on-error: true
+
+      - name: Check on failures
+        if: steps.commit.outputs.status == 'failure'
+        run: exit 1
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.COMMIT_TOKEN }}
