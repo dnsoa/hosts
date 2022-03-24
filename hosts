@@ -104734,6 +104734,7 @@
 127.0.0.1 mobileads.msn.com
 127.0.0.1 mobileanalytics.us-east-1.amazonaws.com
 127.0.0.1 mobileanalytics.useinsider.com
+127.0.0.1 mobileapi.motus.com
 127.0.0.1 mobileapi.usebutton.com
 127.0.0.1 mobilebanner.ru
 127.0.0.1 mobileconfig.sascdn.com
@@ -107861,6 +107862,7 @@
 127.0.0.1 wrapper-vast.adsafeprotected.com
 127.0.0.1 wrating.com
 127.0.0.1 ws-eu.amazon-adsystem.com
+127.0.0.1 ws.audioeye.com
 127.0.0.1 ws.batch.com
 127.0.0.1 ws.inspectlet.com
 127.0.0.1 ws.mmstat.com
