@@ -108011,6 +108011,8 @@
 0.0.0.0 zzz.onion.pet
 0.0.0.0 zzz.pissrip.net
 0.0.0.0 zzzyyzzzyyyzyyzyyyzzyyzyzzzzzzzzyyzzyyyyyzyzyyzzyzpol7196.cmkaarten.nl
+127.0.0.1 03.lzzncm.com
+127.0.0.1 04.lzzncm.com
 127.0.0.1 0ce3c-1fd43.api.pushwoosh.com
 127.0.0.1 100016075.collect.igodigital.com
 127.0.0.1 10148.engine.mobileapptracking.com
@@ -108702,6 +108704,8 @@
 127.0.0.1 ads.nexage.com
 127.0.0.1 ads.nicovideo.jp
 127.0.0.1 ads.ninemsn.com.au
+127.0.0.1 ads.oneway.mobi
+127.0.0.1 ads.oway.mobi
 127.0.0.1 ads.pdbarea.com
 127.0.0.1 ads.perfectaudience.com
 127.0.0.1 ads.phonepe.com
@@ -109009,6 +109013,7 @@
 127.0.0.1 adzmedia.com
 127.0.0.1 adzmobi.com
 127.0.0.1 adztec.com
+127.0.0.1 aegis.qq.com
 127.0.0.1 aerserv.com
 127.0.0.1 aetv.tt.omtrdc.net
 127.0.0.1 aeventlog.beacon.qq.com
@@ -109440,6 +109445,7 @@
 127.0.0.1 api.omnilocal.ai
 127.0.0.1 api.omniture.com
 127.0.0.1 api.oneaudience.com
+127.0.0.1 api.openinstall.io
 127.0.0.1 api.optimizely.com
 127.0.0.1 api.optinmonster.com
 127.0.0.1 api.optmnstr.com
@@ -109555,6 +109561,7 @@
 127.0.0.1 apiconfig.adwo.com
 127.0.0.1 apicosdk.onemt.co
 127.0.0.1 apicssdk.onemt.co
+127.0.0.1 apid.feikaiwadingguan.com
 127.0.0.1 apinas.nct.vn
 127.0.0.1 apis.adbro.me
 127.0.0.1 apis.com.br
@@ -110285,6 +110292,7 @@
 127.0.0.1 cbsinteractive.hb.omtrdc.net
 127.0.0.1 cc.adingo.jp
 127.0.0.1 cc.lbesec.com
+127.0.0.1 cc.map.qq.com
 127.0.0.1 cc.swiftype.com
 127.0.0.1 cca-iad2.rubiconproject.com
 127.0.0.1 cca-iad3.rubiconproject.com
@@ -111129,6 +111137,7 @@
 127.0.0.1 dcys.ijinshan.com
 127.0.0.1 dd.nytimes.com
 127.0.0.1 ddd.1sapp.com
+127.0.0.1 ddt02.shenghao88.top
 127.0.0.1 de-gmtdmp.mookie1.com
 127.0.0.1 de.ads.justpremium.com
 127.0.0.1 de.as.cp61.ott.cibntv.net
@@ -111609,7 +111618,6 @@
 127.0.0.1 fdfe4ed62699.cdn4.forter.com
 127.0.0.1 fdz.flashtalking.com
 127.0.0.1 featured.perfectionholic.com
-127.0.0.1 feed-image.baidu.com
 127.0.0.1 feedimages.simpli.fi
 127.0.0.1 fev.fyber.com
 127.0.0.1 ff.doubleclick.net
@@ -112217,7 +112225,6 @@
 127.0.0.1 images.cardlytics.com
 127.0.0.1 images.emb-api.com
 127.0.0.1 images.informatm.com
-127.0.0.1 images.mpression.net
 127.0.0.1 images.mxpnl.com
 127.0.0.1 images.outbrain.com
 127.0.0.1 images.outbrainimg.com
@@ -112763,7 +112770,6 @@
 127.0.0.1 ls.skimresources.com
 127.0.0.1 ls.srvcs.tumblr.com
 127.0.0.1 lululemonspna.btttag.com
-127.0.0.1 lupic.cdn.bcebos.com
 127.0.0.1 lyft.bttn.io
 127.0.0.1 lynx-prod-beacon-alb-498367235.us-east-1.elb.amazonaws.com
 127.0.0.1 lynx.cognitivlabs.com
@@ -113268,6 +113274,7 @@
 127.0.0.1 nl.rcd.iqiyi.com
 127.0.0.1 nlog.baidu.com
 127.0.0.1 nmcdn.us
+127.0.0.1 nmobi.kuwo.cn
 127.0.0.1 nmtracking.netflix.com
 127.0.0.1 nodeny.targetspot.com
 127.0.0.1 nonmutt.eastus.trafficmanager.inmobi.com
@@ -113435,6 +113442,7 @@
 127.0.0.1 ovp.iris.tv
 127.0.0.1 ow-gateway.supersonicads.com
 127.0.0.1 ow.pubmatic.com
+127.0.0.1 owads.audioadx.com
 127.0.0.1 owb101.goo.ne.jp
 127.0.0.1 owneriq.net.edgekey.net
 127.0.0.1 oxp.mxptint.net
@@ -113473,6 +113481,7 @@
 127.0.0.1 p287.atemda.com
 127.0.0.1 p2sdmkj6t.bkt.clouddn.com
 127.0.0.1 p3.adhitzads.com
+127.0.0.1 p3.adkwai.com
 127.0.0.1 p3.l.qq.com
 127.0.0.1 p4dt2-0pwq8.ads.tremorhub.com
 127.0.0.1 p4dt2-4nrdw.ads.tremorhub.com
@@ -113947,6 +113956,7 @@
 127.0.0.1 qcx.quantserve.com
 127.0.0.1 qds0l.publishers.tremorhub.com
 127.0.0.1 qianlong.adsame.com
+127.0.0.1 qlaops3.jndxwl.com
 127.0.0.1 qosp.msg.71.am
 127.0.0.1 qps.cint.com
 127.0.0.1 qqrp.adj.st
@@ -114752,7 +114762,6 @@
 127.0.0.1 smaato-server.thinknearhub.com
 127.0.0.1 smaato.com
 127.0.0.1 smaato.net
-127.0.0.1 smart-789.image.mucang.cn
 127.0.0.1 smart-789.kakamobi.cn
 127.0.0.1 smart.link
 127.0.0.1 smart.mobvista.com
@@ -115832,7 +115841,6 @@
 127.0.0.1 utop.umengcloud.com
 127.0.0.1 uts.kingoapp.com
 127.0.0.1 uusee.adsame.com
-127.0.0.1 uvimage.56.com
 127.0.0.1 uvu.nojmlxq.cn
 127.0.0.1 uw.evm1.stackadapt.com
 127.0.0.1 uw.srv.stackadapt.com
