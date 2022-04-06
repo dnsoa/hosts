@@ -5,7 +5,7 @@ set -e
 url_list=(
 "https://gcore.jsdelivr.net/gh/AdAway/adaway.github.io@master/hosts.txt" "adaway.txt"
 "https://gcore.jsdelivr.net/gh/jdlingyu/ad-wars@master/hosts" "jdlingyu.txt"
-"https://gcore.jsdelivr.net/gh/StevenBlack/hosts@master/hosts" "stevenblack.txt"
+"https://gcore.jsdelivr.net/gh/privacy-protection-tools/anti-AD@master/anti-ad-domains.txt" "privacy-protection-tools.txt"
 )
 
 for i in ${!url_list[@]}
@@ -26,6 +26,9 @@ do
     fi
 done
 
+if [[ -f "privacy-protection-tools.txt" ]]; then
+    sed -i '5,$s/^/0.0.0.0 \0/g' privacy-protection-tools.txt
+fi
 cat *.txt|egrep -v '^#|^*#'|sed 's/[ ][ ]*/ /g'|sort|uniq > hosts
 
 cat whitelist | while read line
