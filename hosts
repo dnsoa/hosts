@@ -61609,7 +61609,6 @@
 127.0.0.1 api.immomo.com
 127.0.0.1 api.indicative.com
 127.0.0.1 api.infinario.com
-127.0.0.1 api.instabug.com
 127.0.0.1 api.intellimize.co
 127.0.0.1 api.intentiq.com
 127.0.0.1 api.iperceptions.com
@@ -68639,3 +68638,4 @@
 127.0.0.1 zz.bdstatic.com
 127.0.0.1 zzhc.vnet.cn
 ::1 localhost
+[instana.io]
