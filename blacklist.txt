@@ -1,3 +1,4 @@
 0.0.0.0 banyunjuhe.com
 0.0.0.0 ad.fhtre.com
 0.0.0.0 *.miaozhen.com
+0.0.0.0 *.vstat.info
