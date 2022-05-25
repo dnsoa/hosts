@@ -1,7 +1,7 @@
 #TITLE=anti-AD
-#VER=20220523024259
+#VER=20220524175443
 #URL=https://github.com/privacy-protection-tools/anti-AD
-#TOTAL_LINES=60636
+#TOTAL_LINES=60637
 0.0.0.0 00-gov.cn
 0.0.0.0 000123456789.online
 0.0.0.0 000123456789.site
@@ -6347,6 +6347,7 @@
 0.0.0.0 bmp.ali213.net
 0.0.0.0 bmp1.ali213.net
 0.0.0.0 web.ali213.net
+0.0.0.0 click.ali213.net
 0.0.0.0 aliadvert.ru
 0.0.0.0 umdc.aliapp.org
 0.0.0.0 ynuf.aliapp.org
@@ -22862,6 +22863,7 @@
 0.0.0.0 automate.gixxy.com
 0.0.0.0 sourcepoint.gizmodo.com
 0.0.0.0 www.gj500.com
+0.0.0.0 gjctwh.cn
 0.0.0.0 5568.gjghy.com
 0.0.0.0 gjh111.cn
 0.0.0.0 m.gjiai.com
@@ -42163,7 +42165,6 @@
 0.0.0.0 qhonzpl.cn
 0.0.0.0 m.qhout.com
 0.0.0.0 qhqofqeivtno.com
-0.0.0.0 qhres2.com
 0.0.0.0 c.qhruixin.cn
 0.0.0.0 v.qhruixin.cn
 0.0.0.0 news.qhstatic.com
@@ -44716,7 +44717,6 @@
 0.0.0.0 rulinecrea.xyz
 0.0.0.0 rulkerton.site
 0.0.0.0 rumanalytics.com
-0.0.0.0 rumble.com
 0.0.0.0 rumerrand.com
 0.0.0.0 rummyaffiliates.com
 0.0.0.0 rumpelstiltskinhead.com
@@ -55482,6 +55482,7 @@
 0.0.0.0 wbapp.uve.weibo.com
 0.0.0.0 zc.biz.weibo.com
 0.0.0.0 zymo.mps.weibo.com
+0.0.0.0 fastimage.uve.weibo.com
 0.0.0.0 alitui.weibo.com.cn
 0.0.0.0 biz.weibo.com.cn
 0.0.0.0 game.weibo.com.cn
@@ -56584,7 +56585,6 @@
 0.0.0.0 wpsweb-dc.wps.cn
 0.0.0.0 adres.wpscdn.cn
 0.0.0.0 img.gou.wpscdn.cn
-0.0.0.0 mo.res.wpscdn.cn
 0.0.0.0 analytics.wpsermons.com
 0.0.0.0 tracker.wpserveur.net
 0.0.0.0 wpshsdk.com
@@ -57296,6 +57296,7 @@
 0.0.0.0 zeus.ad.xiaomi.com
 0.0.0.0 data.mistat.intl.xiaomi.com
 0.0.0.0 admob.xiaomi.com
+0.0.0.0 t1.market.xiaomi.com
 0.0.0.0 app.chat.xiaomi.net
 0.0.0.0 lxcdn.dl.files.xiaomi.net
 0.0.0.0 migrate.driveapi.micloud.xiaomi.net
