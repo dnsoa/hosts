@@ -1,7 +1,7 @@
 #TITLE=anti-AD
-#VER=20220611024418
+#VER=20220611223306
 #URL=https://github.com/privacy-protection-tools/anti-AD
-#TOTAL_LINES=61109
+#TOTAL_LINES=61104
 0.0.0.0 00-gov.cn
 0.0.0.0 000123456789.online
 0.0.0.0 000123456789.site
@@ -1339,7 +1339,6 @@
 0.0.0.0 37see.com
 0.0.0.0 cs.37see.com
 0.0.0.0 p.37see.com
-0.0.0.0 37signals.com
 0.0.0.0 image.37wan.cn
 0.0.0.0 37wan.com
 0.0.0.0 a.clickdata.37wan.com
@@ -6519,7 +6518,6 @@
 0.0.0.0 ttjx-online.cn-hangzhou.log.aliyuncs.com
 0.0.0.0 xz-development.oss-cn-beijing.aliyuncs.com
 0.0.0.0 sspmiaoshuo.cn-hangzhou.log.aliyuncs.com
-0.0.0.0 arms-retcode.aliyuncs.com
 0.0.0.0 aliyuncss.com
 0.0.0.0 aliyune.xyz
 0.0.0.0 aliyunf.xyz
@@ -17945,7 +17943,6 @@
 0.0.0.0 douthosh.net
 0.0.0.0 t.douyaobuy.com
 0.0.0.0 tt.douyaobuy.com
-0.0.0.0 msg.douyu.com
 0.0.0.0 wan.douyu.com
 0.0.0.0 g.wan.douyu.com
 0.0.0.0 club-img.douyucdn.cn
@@ -35108,7 +35105,6 @@
 0.0.0.0 stats.mituyu.com
 0.0.0.0 gg.miued.com
 0.0.0.0 ccc.sys.miui.com
-0.0.0.0 browser.miui.com
 0.0.0.0 hd.browser.miui.com
 0.0.0.0 httpdns.browser.miui.com
 0.0.0.0 logupdate.avlyun.sec.miui.com
@@ -48717,7 +48713,6 @@
 0.0.0.0 stackattacka.com
 0.0.0.0 stats.stackingthebricks.com
 0.0.0.0 trackla.stackla.com
-0.0.0.0 stackpathdns.com
 0.0.0.0 stats.stacks.org
 0.0.0.0 bdzcck.stadiumgoods.com
 0.0.0.0 cn1.stadiumgoods.com
