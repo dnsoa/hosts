@@ -1,7 +1,7 @@
 #TITLE=anti-AD
-#VER=20220623024632
+#VER=20220623231705
 #URL=https://github.com/privacy-protection-tools/anti-AD
-#TOTAL_LINES=61163
+#TOTAL_LINES=61181
 0.0.0.0 000123456789.online
 0.0.0.0 000123456789.site
 0.0.0.0 000123456789.space
@@ -1663,6 +1663,8 @@
 0.0.0.0 m.4qonm.cn
 0.0.0.0 4rabettraff.com
 0.0.0.0 4rgm6z478o.cn
+0.0.0.0 4rw6x0b.cn
+0.0.0.0 5rd25e.4rw6x0b.cn
 0.0.0.0 eo.4s5n.cn
 0.0.0.0 mo.4s5n.cn
 0.0.0.0 4skd2j.cn
@@ -1701,6 +1703,10 @@
 0.0.0.0 m.50j33.cn
 0.0.0.0 50milan.xyz
 0.0.0.0 50trk.com
+0.0.0.0 50union.com
+0.0.0.0 www.50union.com
+0.0.0.0 mclean.50union.com
+0.0.0.0 mvconf.50union.com
 0.0.0.0 rfir2.50w.me
 0.0.0.0 50zera.com
 0.0.0.0 51-tour.net
@@ -2647,6 +2653,7 @@
 0.0.0.0 825145.com
 0.0.0.0 www.8269996.com
 0.0.0.0 827fa7c868b4b.com
+0.0.0.0 8289.tv
 0.0.0.0 82dbb7897b.com
 0.0.0.0 82eb361582.com
 0.0.0.0 82o9v830.com
@@ -18419,6 +18426,8 @@
 0.0.0.0 dvigukindal.com
 0.0.0.0 dvitohrrmq.xyz
 0.0.0.0 dviwjuggl.com
+0.0.0.0 dvkbfj.cn
+0.0.0.0 www.dvkbfj.cn
 0.0.0.0 dvnfo.com
 0.0.0.0 dvnmyltt.xyz
 0.0.0.0 dvoyy3qexr.com
@@ -19188,6 +19197,8 @@
 0.0.0.0 m.ei4f.cn
 0.0.0.0 eiasia.ltd
 0.0.0.0 eiasninancu.com
+0.0.0.0 eib2.cc
+0.0.0.0 app.eib2.cc
 0.0.0.0 ct.eid.co.nz
 0.0.0.0 7mx.eider.com
 0.0.0.0 eidsign.com.cn
@@ -30553,6 +30564,7 @@
 0.0.0.0 pixel.kknews.cc
 0.0.0.0 kkpqhqu.cn
 0.0.0.0 k.kksgl.top
+0.0.0.0 kktly.cn
 0.0.0.0 kkuuu.top
 0.0.0.0 kl-toys.com
 0.0.0.0 www.kl-toys.com
@@ -32197,7 +32209,6 @@
 0.0.0.0 www.linksjg.cn
 0.0.0.0 linkslot.ru
 0.0.0.0 linksmart.com
-0.0.0.0 linksnappy.com
 0.0.0.0 linkstorm.net
 0.0.0.0 ad.linksynergy.com
 0.0.0.0 ads.rd.linksynergy.com
@@ -35171,7 +35182,6 @@
 0.0.0.0 etl.xlmc.sec.miui.com
 0.0.0.0 fb.xk.miui.com
 0.0.0.0 fcanr.tracking.miui.com
-0.0.0.0 hot.browser.miui.com
 0.0.0.0 info.analysis.kp.sec.miui.com
 0.0.0.0 info.sec.miui.com
 0.0.0.0 metok.sys.miui.com
@@ -35275,6 +35285,8 @@
 0.0.0.0 mlovem.pw
 0.0.0.0 mlre.com.cn
 0.0.0.0 mlrkqwlcetqwxwl.xyz
+0.0.0.0 mlsjh.com
+0.0.0.0 mh1.mlsjh.com
 0.0.0.0 mlstat.com
 0.0.0.0 analytics.mlstatic.com
 0.0.0.0 mlsys.xyz
@@ -41323,6 +41335,8 @@
 0.0.0.0 postclickmarketing.com
 0.0.0.0 sp.postcrescent.com
 0.0.0.0 kqkydl.postel-deluxe.ru
+0.0.0.0 postex10.com
+0.0.0.0 land3.postex10.com
 0.0.0.0 track.postkodlotteriet.se
 0.0.0.0 postlnk.com
 0.0.0.0 fleet-eml.postmates.com
@@ -45037,6 +45051,8 @@
 0.0.0.0 rsalcau.com
 0.0.0.0 rsalcch.com
 0.0.0.0 rsaltsjt.com
+0.0.0.0 rscc3.cc
+0.0.0.0 stat.rscc3.cc
 0.0.0.0 rscxwmj.cn
 0.0.0.0 c.rscxwmj.cn
 0.0.0.0 mldy.rsgbt.cn
@@ -49418,6 +49434,8 @@
 0.0.0.0 suitesbahrag.icu
 0.0.0.0 suitesmart.com
 0.0.0.0 suitsoon.com
+0.0.0.0 sujev.cn
+0.0.0.0 e5m2gp.sujev.cn
 0.0.0.0 sulcateeclogue.com
 0.0.0.0 sulkybutter.com
 0.0.0.0 sulkycook.com
