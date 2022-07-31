@@ -6,6 +6,7 @@
 0.0.0.0 *.dxys.pro
 0.0.0.0 *.umeng.com
 0.0.0.0 mobads.baidu.com
+0.0.0.0 mobads-logs.baidu.com
 0.0.0.0 hmma.baidu.com
 0.0.0.0 adsmind.ugdtimg.com
 0.0.0.0 *.snssdk.com
@@ -16,4 +17,17 @@
 0.0.0.0 *.umengcloud.com
 0.0.0.0 *.ctobsnssdk.com
 0.0.0.0 *.e.qq.com
-0.0.0.0 open.e.kuaishou.com
+0.0.0.0 *.e.kuaishou.com
+0.0.0.0 t-dsp.pinduoduo.com
+0.0.0.0 *.pglstatp-toutiao.com
+0.0.0.0 *.ugdtimg.com
+0.0.0.0 *.pangolin-sdk-toutiao.com
+0.0.0.0 toblog.ctobsnssdk.com
+0.0.0.0 log-api.pangolin-sdk-toutiao-b.com
+0.0.0.0 api-access.pangolin-sdk-toutiao.com
+0.0.0.0 mi.gdt.qq.com
+0.0.0.0 pgdt.ugdtimg.com
+0.0.0.0 qzs.gdtimg.com
+0.0.0.0 ib.snssdk.com
+0.0.0.0 p6-ad-sign.byteimg.com
+0.0.0.0 mssdk-bu.bytedance.com
