@@ -1,6 +1,17 @@
 
+0.0.0.0 *.adkwai.com
+0.0.0.0 *.ctobsnssdk.com
+0.0.0.0 *.dxys.pro
 0.0.0.0 *.miaozhen.com
+0.0.0.0 *.pangolin-sdk-toutiao.com
+0.0.0.0 *.pglstatp-toutiao.com
+0.0.0.0 *.snssdk.com
+0.0.0.0 *.tanx.com
+0.0.0.0 *.ugdtimg.com
+0.0.0.0 *.umeng.com
+0.0.0.0 *.umengcloud.com
 0.0.0.0 *.vstat.info
+0.0.0.0 *.yximgs.com
 0.0.0.0 .weixingshexiangji.net
 0.0.0.0 0.r.msn.com
 0.0.0.0 0.up.qingdaonews.com
@@ -4989,6 +5000,7 @@
 0.0.0.0 adsmart.yicha.cn
 0.0.0.0 adsmind.apdcdn.tc.qq.com
 0.0.0.0 adsmind.gdtimg.com
+0.0.0.0 adsmind.ugdtimg.com
 0.0.0.0 adsmis.duxiaoman.com
 0.0.0.0 adsmogo.com
 0.0.0.0 adsmogo.mobi
@@ -5142,6 +5154,7 @@
 0.0.0.0 adtpix.com
 0.0.0.0 adtr.io
 0.0.0.0 adtrace.org
+0.0.0.0 adtrack.e.kuaishou.com
 0.0.0.0 adtrack.ucweb.com
 0.0.0.0 adtrack1.club
 0.0.0.0 adtrackers.net
@@ -19385,6 +19398,7 @@
 0.0.0.0 enthusiasticring.com
 0.0.0.0 enthusiasticsabotage.com
 0.0.0.0 enticelabs.com
+0.0.0.0 entirelysacrament.com
 0.0.0.0 entmassaul.com
 0.0.0.0 entmatchw.top
 0.0.0.0 entractta.top
@@ -25468,6 +25482,7 @@
 0.0.0.0 iazwzp.lyst.com
 0.0.0.0 ib-ibi.com
 0.0.0.0 ib.adnxs.com
+0.0.0.0 ib.snssdk.com
 0.0.0.0 ib00.cn
 0.0.0.0 ibafnw.cn
 0.0.0.0 ibannerexchange.com
@@ -27647,7 +27662,6 @@
 0.0.0.0 jikicotho.pro
 0.0.0.0 jiliw.com
 0.0.0.0 jill.fc.yahoo.com
-0.0.0.0 jimdo.com
 0.0.0.0 jimeilm.com
 0.0.0.0 jimg.jisuoping.com
 0.0.0.0 jimopuwa.com
@@ -30685,6 +30699,7 @@
 0.0.0.0 loftiernucule.com
 0.0.0.0 lofv.xyz
 0.0.0.0 log-api.newrelic.com
+0.0.0.0 log-api.pangolin-sdk-toutiao-b.com
 0.0.0.0 log-api.pangolin-sdk-toutiao.com
 0.0.0.0 log-dmp.suishenyun.cn
 0.0.0.0 log-stats.weathercn.com
@@ -35237,6 +35252,7 @@
 0.0.0.0 msquaredproductions.com
 0.0.0.0 msr.p-antiaging.com
 0.0.0.0 msri.club
+0.0.0.0 mssdk-bu.bytedance.com127.0.0.1 localhost
 0.0.0.0 mssheng.com
 0.0.0.0 mssmkj.com
 0.0.0.0 mssp.baidu.com
@@ -37580,6 +37596,7 @@
 0.0.0.0 open-uc.cn
 0.0.0.0 open.delivery.net
 0.0.0.0 open.e.kuaishou.com
+0.0.0.0 open.e.qq.com
 0.0.0.0 open.oneplus.net
 0.0.0.0 open.play.cn
 0.0.0.0 open8.cn
@@ -49968,6 +49985,7 @@
 0.0.0.0 swacal.com
 0.0.0.0 swagtraffcom.com
 0.0.0.0 swailsmenison.com
+0.0.0.0 swallowcrockerybless.com
 0.0.0.0 swan-swan-goose.com
 0.0.0.0 swappdl.duoyi.com
 0.0.0.0 swat8toot.com
@@ -50240,6 +50258,7 @@
 0.0.0.0 szzd.ltd
 0.0.0.0 t-abi.hypers.com.cn
 0.0.0.0 t-analytics.com
+0.0.0.0 t-dsp.pinduoduo.com
 0.0.0.0 t-e.flyme.cn
 0.0.0.0 t-flow.flyme.cn
 0.0.0.0 t-l.play.aiseet.atianqi.com
@@ -70006,3 +70025,4 @@
 127.0.0.1 zz.bdstatic.com
 127.0.0.1 zzhc.vnet.cn
 ::1 localhost
+https://cdn.staticaly.com/gh/dnsoa/hosts/master/hosts
