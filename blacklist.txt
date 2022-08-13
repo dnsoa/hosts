@@ -32,3 +32,6 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 p6-ad-sign.byteimg.com
 0.0.0.0 mssdk-bu.bytedance.com
+0.0.0.0 android.bugly.qq.com
+0.0.0.0 errlog.umeng.com
+0.0.0.0 com-recd-public-1305835735.cos.ap-chengdu.myqcloud.com
