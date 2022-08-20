@@ -1,5 +1,5 @@
 #TITLE=anti-AD
-#VER=20220817024650
+#VER=20220819104547
 #URL=https://github.com/privacy-protection-tools/anti-AD
 #TOTAL_LINES=61365
 0.0.0.0 000123456789.online
@@ -837,6 +837,7 @@
 0.0.0.0 2329.ink
 0.0.0.0 233wo.com
 0.0.0.0 assets.2343sdxs.com
+0.0.0.0 2345.cc
 0.0.0.0 2345.cn
 0.0.0.0 dl.2345.cn
 0.0.0.0 download.2345.cn
@@ -4912,7 +4913,6 @@
 0.0.0.0 adnyg.com
 0.0.0.0 img.adnyg.com
 0.0.0.0 adnz.co
-0.0.0.0 adobe-campaign.com
 0.0.0.0 cimage.adobe.com
 0.0.0.0 data.email-discovery.cjm.adobe.com
 0.0.0.0 data.email-disney.cjm.adobe.com
@@ -34740,7 +34740,6 @@
 0.0.0.0 bmodjx.mgos.jp
 0.0.0.0 mgtcw.top
 0.0.0.0 apperr.log.mgtv.com
-0.0.0.0 as.mgtv.com
 0.0.0.0 audit.aaa.mgtv.com
 0.0.0.0 cmop.mgtv.com
 0.0.0.0 cdn.cmop.mgtv.com
@@ -35483,7 +35482,6 @@
 0.0.0.0 gj.mmstat.com
 0.0.0.0 oneid.mmstat.com
 0.0.0.0 ac.mmstat.com
-0.0.0.0 gm.mmstat.com
 0.0.0.0 go.mmstat.com
 0.0.0.0 gxb.mmstat.com
 0.0.0.0 hz.mmstat.com
@@ -43293,6 +43291,7 @@
 0.0.0.0 openmsf.3g.qq.com
 0.0.0.0 mark.l.qq.com
 0.0.0.0 rlog.video.qq.com
+0.0.0.0 ad.browser.qq.com
 0.0.0.0 qq0010.xyz
 0.0.0.0 qq0017.xyz
 0.0.0.0 qq167.com
@@ -59080,6 +59079,7 @@
 0.0.0.0 yepteaswont.com
 0.0.0.0 yeribi.com
 0.0.0.0 yes-messenger.com
+0.0.0.0 yes115.com
 0.0.0.0 yesadsrv.com
 0.0.0.0 xls.yeschool.info
 0.0.0.0 ad.yeshitv.com
