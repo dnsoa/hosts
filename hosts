@@ -63967,6 +63967,7 @@
 127.0.0.1 adtimaserver.vn
 127.0.0.1 adtng.com
 127.0.0.1 adtrack.adleadevent.com
+127.0.0.1 adtrack.e.kuaishou.com
 127.0.0.1 adtrack.king.com
 127.0.0.1 adtrack.ucweb.com
 127.0.0.1 adtrack1.midasplayer.com
@@ -64029,6 +64030,7 @@
 127.0.0.1 adx.maplehaze.cn
 127.0.0.1 adx.pro.cn
 127.0.0.1 adx.rrt365.com
+127.0.0.1 adx.sogaha.cn
 127.0.0.1 adx.timewit.cn
 127.0.0.1 adx.xiaodutv.com
 127.0.0.1 adx2.adform.net
@@ -64432,6 +64434,7 @@
 127.0.0.1 api.itv.letv.com
 127.0.0.1 api.ivymobile.com
 127.0.0.1 api.jeeng.com
+127.0.0.1 api.jialiangad.com
 127.0.0.1 api.kaffnet.com
 127.0.0.1 api.keen.io
 127.0.0.1 api.kiip.me
@@ -64559,6 +64562,7 @@
 127.0.0.1 api.wootric.com
 127.0.0.1 api.wootric.com.herokudns.com
 127.0.0.1 api.wsq.umeng.com
+127.0.0.1 api.yidaomobi.com
 127.0.0.1 api.yieldlove-ad-serving.net
 127.0.0.1 api.youxiaoad.com
 127.0.0.1 api.yuedu.iqiyi.com
@@ -66462,6 +66466,7 @@
 127.0.0.1 engageya.com
 127.0.0.1 engine.adzerk.net
 127.0.0.1 engine.fyber.com
+127.0.0.1 engine.liandaomobi.com
 127.0.0.1 engine.lvehaisen.com
 127.0.0.1 engine.mobileapptracking.com
 127.0.0.1 engine.monetate.net
@@ -68382,6 +68387,7 @@
 127.0.0.1 onsitestats.bluecore.com
 127.0.0.1 onthe.io
 127.0.0.1 open.adview.cn
+127.0.0.1 open.e.kuaishou.cn
 127.0.0.1 open.e.kuaishou.com
 127.0.0.1 open.inc2.igexin.com
 127.0.0.1 open.isnssdk.com
@@ -68492,6 +68498,8 @@
 127.0.0.1 p.tencentmind.com
 127.0.0.1 p.tvpixel.com
 127.0.0.1 p.webengage.com
+127.0.0.1 p1-lm.adkwai.com
+127.0.0.1 p1.adkwai.com
 127.0.0.1 p1.parsely.com
 127.0.0.1 p102-clb.allstarcluster.com
 127.0.0.1 p1cluster.cxense.com
@@ -68759,7 +68767,6 @@
 127.0.0.1 pool-pebblemedia.adhese.com
 127.0.0.1 pool.adizio.com
 127.0.0.1 poole-collector-prod.bnsqc3zmvt.us-east-1.elasticbeanstalk.com
-127.0.0.1 pop-iad-2.cf.dash.row.aiv-cdn.net
 127.0.0.1 popup.taboola.com
 127.0.0.1 pos.baidu.com
 127.0.0.1 post-log.pushwoosh.com
@@ -69081,6 +69088,7 @@
 127.0.0.1 report.personali.com
 127.0.0.1 report.qq.com
 127.0.0.1 report.salmonads.com
+127.0.0.1 report.yumobi.cn
 127.0.0.1 reporting.aatkit.com
 127.0.0.1 reporting.tapstream.com
 127.0.0.1 reporting.tutelatechnologies.com
@@ -69320,10 +69328,7 @@
 127.0.0.1 s2s.aniview.com
 127.0.0.1 s2s.mparticle.com
 127.0.0.1 s2s.singular.net
-127.0.0.1 s3-iad-2.cf.dash.row.aiv-cdn.net
-127.0.0.1 s3-iad-ww.cf.videorolls.row.aiv-cdn.net
 127.0.0.1 s3.lightboxcdn.com
-127.0.0.1 s3.ll.videorolls.row.aiv-cdn.net
 127.0.0.1 s3.pfp.sina.net
 127.0.0.1 s3.phluant.com
 127.0.0.1 s3cf.flashtalking.com
@@ -69911,6 +69916,7 @@
 127.0.0.1 ssp.advertising.com
 127.0.0.1 ssp.api.tappx.com
 127.0.0.1 ssp.cibn.starschina.com
+127.0.0.1 ssp.indexmob.com
 127.0.0.1 ssp.lkqd.net
 127.0.0.1 ssp.pro.cn
 127.0.0.1 ssp.send.microad.jp
@@ -70520,6 +70526,7 @@
 127.0.0.1 track.adtraction.com
 127.0.0.1 track.adwo.com
 127.0.0.1 track.adx.adlefee.com
+127.0.0.1 track.adxwork.com
 127.0.0.1 track.afcpatrk.com
 127.0.0.1 track.aniview.com
 127.0.0.1 track.appsflyer.com
