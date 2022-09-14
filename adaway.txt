@@ -3252,9 +3252,6 @@
 # [us-central1-adaptive-growth.cloudfunctions.net]
 127.0.0.1 us-central1-adaptive-growth.cloudfunctions.net
 
-# [cloudinary.com]
-127.0.0.1 res.cloudinary.com
-
 # [cloudmobi.net]
 127.0.0.1 cloudmobi.net
 127.0.0.1 api.cloudmobi.net
@@ -6064,10 +6061,6 @@
 
 # [largosoft.co.kr]
 127.0.0.1 largosoft.co.kr
-
-# [launchdarkly.com]
-127.0.0.1 events.launchdarkly.com
-127.0.0.1 mobile.launchdarkly.com
 
 # [lavanetwork.net]
 127.0.0.1 lavanetwork.net
