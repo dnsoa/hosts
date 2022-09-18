@@ -1,7 +1,7 @@
 #TITLE=anti-AD
-#VER=20220917030011
+#VER=20220917142413
 #URL=https://github.com/privacy-protection-tools/anti-AD
-#TOTAL_LINES=65740
+#TOTAL_LINES=65739
 0.0.0.0 000123456789.online
 0.0.0.0 000123456789.site
 0.0.0.0 000123456789.space
@@ -24877,7 +24877,6 @@
 0.0.0.0 georiot.com
 0.0.0.0 geotargetly.co
 0.0.0.0 geotmt.com
-0.0.0.0 geotrust.com
 0.0.0.0 geovideo.name
 0.0.0.0 geovisite.com
 0.0.0.0 geovisite.ovh
