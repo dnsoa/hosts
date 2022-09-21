@@ -67977,6 +67977,7 @@
 127.0.0.1 au.w.inmobi.cn
 127.0.0.1 au.w.inmobi.com
 127.0.0.1 au.youmi.net
+127.0.0.1 au1.gigya.com
 127.0.0.1 auctera.gotrackier.com
 127.0.0.1 auction-banner.unityads.unity3d.com
 127.0.0.1 auction-load.unityads.unity3d.com
@@ -68542,6 +68543,7 @@
 127.0.0.1 cdn.fqtag.com
 127.0.0.1 cdn.g5e.com
 127.0.0.1 cdn.geodns.tubemogul.com
+127.0.0.1 cdn.gigya.com
 127.0.0.1 cdn.gimbal.tech
 127.0.0.1 cdn.gladly.com
 127.0.0.1 cdn.gmossp-sp.jp
@@ -68689,8 +68691,16 @@
 127.0.0.1 cdnimg.izooto.com
 127.0.0.1 cdnp1.yieldoptimizer.com
 127.0.0.1 cdnpixel.simpli.fi
+127.0.0.1 cdns.au1.gigya.com
+127.0.0.1 cdns.eu1.gigya.com
+127.0.0.1 cdns.eu2.gigya.com
+127.0.0.1 cdns.gigya.com
 127.0.0.1 cdns.sdkconfig.site
 127.0.0.1 cdns.turn.com
+127.0.0.1 cdns.us1.gigya.com
+127.0.0.1 cdns1.gigya.com
+127.0.0.1 cdns2.gigya.com
+127.0.0.1 cdns3.gigya.com
 127.0.0.1 cdnsonata.taptapnetworks.com
 127.0.0.1 cdnssl.clicktale.net
 127.0.0.1 cdnstoremedia.com
@@ -69634,7 +69644,9 @@
 127.0.0.1 eu.y.atwola.com
 127.0.0.1 eu01.nr-data.net
 127.0.0.1 eu1-spiky.wzrkt.com
+127.0.0.1 eu1.gigya.com
 127.0.0.1 eu1.wzrkt.com
+127.0.0.1 eu2.gigya.com
 127.0.0.1 euasync01.admantx.com
 127.0.0.1 eum-orange-saas.instana.io
 127.0.0.1 eus.rubiconproject.com
@@ -69739,6 +69751,9 @@
 127.0.0.1 fandangollc.demdex.net
 127.0.0.1 fanserv.us-east-1.stinger-ad.bidr.io
 127.0.0.1 fanserv.us-west-2.stinger-ad.bidr.io
+127.0.0.1 farm5.eu1.gigya.com
+127.0.0.1 farm5.gigya.com
+127.0.0.1 farm5.us1.gigya.com
 127.0.0.1 fast.a.klaviyo.com
 127.0.0.1 fast.mtvn.demdex.net
 127.0.0.1 fastapi.net
@@ -70058,6 +70073,8 @@
 127.0.0.1 grtb-nj.lfstmedia.com
 127.0.0.1 grtb-sc.lfstmedia.com
 127.0.0.1 gs.getui.com
+127.0.0.1 gscounters.eu1.gigya.com
+127.0.0.1 gscounters.us1.gigya.com
 127.0.0.1 gslbeacon.lijit.com
 127.0.0.1 gsmtop.net
 127.0.0.1 gstat.myzaker.com
@@ -70743,8 +70760,11 @@
 127.0.0.1 lazy.rayjump.com
 127.0.0.1 lb-adsdis.mng-ads.com
 127.0.0.1 lb-adsmob.mng-ads.com
+127.0.0.1 lb-d.us1.gigya.com
 127.0.0.1 lb.aatkit.com
 127.0.0.1 lb.affilae.com
+127.0.0.1 lb.au1.gigya.com
+127.0.0.1 lb.eu1.gigya.com
 127.0.0.1 lb.l.qq.com
 127.0.0.1 lb.usemaxserver.de
 127.0.0.1 lb3d.tj.ijinshan.com
@@ -73999,6 +74019,7 @@
 127.0.0.1 us01.rayjump.com
 127.0.0.1 us1-sdk.bluedot.io
 127.0.0.1 us1-spiky.wzrkt.com
+127.0.0.1 us1.gigya.com
 127.0.0.1 us1.wzrkt.com
 127.0.0.1 usasync01.admantx.com
 127.0.0.1 usc.adserver.snapads.com
