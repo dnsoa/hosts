@@ -5,7 +5,6 @@ set -e
 url_list=(
 "https://gcore.jsdelivr.net/gh/AdAway/adaway.github.io@master/hosts.txt" "adaway.txt"
 "https://gcore.jsdelivr.net/gh/jdlingyu/ad-wars@master/hosts" "jdlingyu.txt"
-"https://gcore.jsdelivr.net/gh/privacy-protection-tools/anti-AD@master/anti-ad-domains.txt" "privacy-protection-tools.txt"
 )
 
 for i in ${!url_list[@]}
