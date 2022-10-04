@@ -1,0 +1,1 @@
+https://cdn.staticaly.com/gh/dnsoa/hosts/master/hosts
